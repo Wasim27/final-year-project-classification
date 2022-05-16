@@ -14,7 +14,7 @@ This project explores the use of computer vision and how it is used within the m
 * Program can be run as a jupyter notebook e.g. google colab
 * Modifications such as changing the folder/file names
 * Can also modify what classes to classify for the ANN/SVM
-* Datasets are required to be added to the directories path
+* Datasets are required to be added to the correct path or be accessible
 
 ## Acknowledgments
 
