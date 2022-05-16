@@ -26,3 +26,5 @@ Datasets.
 * [car-or-truck-dataset](https://www.kaggle.com/datasets/ryanholbrook/car-or-truck)
 
 Other references can be viewed within my report such as code snippets etc.
+
+**NOTE: Some models are resource intensive so take this into consideration when training the models.**
