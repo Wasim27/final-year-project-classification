@@ -19,6 +19,13 @@ This project explores the use of computer vision and how it is used within the m
 * Can also modify what classes to classify for the ANN/SVM
 * Datasets are required to be added to the correct path or be accessible
 
+### Trained ResNet-50 Models
+
+Below are links to download my ResNet-50 models which have been trained using Keras.
+
+* [Pokemon Model](https://drive.google.com/file/d/1x8SSrGOXKrCBgr0zBYNK1rNYxEGibKDt/view?usp=sharing)
+* [Car Or Truck Model](https://drive.google.com/file/d/1rSJ62aOirTYCX7LbmTsDoKVx-adq896Y/view?usp=sharing)
+
 ## Acknowledgments
 
 Datasets.
